@@ -1634,3 +1634,22 @@ transition: transform 0.4s ease;
     color: #000000 !important;
     text-decoration: underline;
 }
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
